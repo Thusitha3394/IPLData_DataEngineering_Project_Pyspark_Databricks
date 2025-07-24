@@ -40,5 +40,8 @@ The dataset was downloaded from [[Data.World – IPL Dataset](https://data.world
 ---
 
 ## 📌 Project Structure
+IPL_Data_Analysis_Spark.ipynb
+Read.me
+Data
 
 
